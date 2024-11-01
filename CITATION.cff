@@ -1,0 +1,32 @@
+/*
+Este es el archivo de citado del proyecto.
+Por favor rellenarlo con los datos correspondientes y borrar los comentarios.
+Para campos que no estén presentes en ésta plantilla de ejemplo, ver la
+documentación completa del formato:
+https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
+*/
+
+cff-version: 1.2.0
+message: "Si usás este repositorio, por favor citalo usando estos datos."
+license: CC-BY-NC-SA-4.0
+type: dataset
+date-released: "YYYY-MM-DD"
+title: "Dolor sit amet"
+abstract: >-
+  Por favor cambiar este texto. Acá va una descripción
+  del artículo y/o de los datos que contiene el repo.
+
+repository-code: "https://github.com/datos-Fundar/dolorsitamet"
+url: "https://fund.ar/dolorsitamet"
+
+identifiers:
+  - description: "Breve descripción del proyecto"
+    type: doi
+    value: 10.5281/zenodo.123456  // REEMPLAZAR ESTO CON EL DOI CORRESPONDIENTE Y CAMBIARLO EN EL README
+authors:
+  // A partir de acá, agregar los datos de lxs autores
+  - given-names: "Lorem"
+    family-names: "Ipsum"
+    affiliation: "Fundar"
+    email: lipsum@fund.ar
+    
