@@ -1,4 +1,6 @@
-# Lorem Ipsum
+# Oportunidades para el desarrollo del sector pesquero y acuícola argentino
+
+Este repositorio reúne datos y análisis detallados del trabajo realizado por Fundar sobre el sector pesquero en Argentina. El enfoque esta en identificar oportunidades para el desarrollo sostenible del sector a partir de tres ejes: el avance en certificaciones sustentables, el crecimiento de la acuicultura y la diversificación de productos para aumentar el valor agregado.
 
 <!-- CAMBIAR "https://place-hold.it/1920x1080" POR EL LINK A LA IMAGEN CORRESPONDIENTE -->
 [![Título del Artículo](https://place-hold.it/1920x1080)](https://fund.ar)
@@ -6,9 +8,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 <!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234.svg)](https://zenodo.org/doi/10.5281/zenodo.11186044) -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+<!-- 
 ### Ejemplos de alertas destacadas
 
 > [!NOTE]
@@ -62,7 +62,7 @@ g.set_axis_labels(x_var = "Año", y_var= "Pesos constantes de 2004" )
 g.set_titles(col_template="{col_name}")
 g.tight_layout()
 ```
-
+-->
 ---
 <div>&nbsp;</div>
 <div>&nbsp;</div>
