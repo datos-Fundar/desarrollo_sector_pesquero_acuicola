@@ -13,6 +13,7 @@ repository-code: "https://github.com/datos-Fundar/desarrollo_sector_pesquero_acu
 identifiers:
   - description: "Oportunidades para impulsar el desarrollo sostenible del sector pesquero argentino."
     type: doi
+    value: 10.5281/zenodo.14026583
 authors:
   - given-names: "Daniela Belén"
     family-names: "Risaro"
