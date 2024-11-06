@@ -1,12 +1,12 @@
-# Oportunidades para el desarrollo del sector pesquero y acuícola argentino
+# Aprovechar el viento a favor. Oportunidades para el desarrollo del sector pesquero y acuícola
 
-Este repositorio reúne datos y análisis detallados del trabajo realizado por Fundar sobre el sector pesquero en Argentina. El enfoque esta en identificar oportunidades para el desarrollo sostenible del sector a partir de tres ejes: el avance en certificaciones sustentables, el crecimiento de la acuicultura y la diversificación de productos para aumentar el valor agregado.
+Este repositorio reúne datos y análisis detallados del trabajo realizado por Fundar sobre el [sector pesquero en Argentina](https://fund.ar/publicacion/aprovechar-el-viento-a-favor-oportunidades-para-el-desarrollo-del-sector-pesquero-y-acuicola/). El enfoque esta en identificar oportunidades para el desarrollo sostenible del sector a partir de tres ejes: el avance en certificaciones sustentables, el crecimiento de la acuicultura y la diversificación de productos para aumentar el valor agregado.
 
 <!-- CAMBIAR "https://place-hold.it/1920x1080" POR EL LINK A LA IMAGEN CORRESPONDIENTE -->
 [![Título del Artículo](https://place-hold.it/1920x1080)](https://fund.ar)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234.svg)](https://zenodo.org/doi/10.5281/zenodo.11186044) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14026583.svg)](https://doi.org/10.5281/zenodo.14026583)
 
 <!-- 
 ### Ejemplos de alertas destacadas
