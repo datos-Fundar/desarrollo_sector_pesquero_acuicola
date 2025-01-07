@@ -1,6 +1,6 @@
 # Descripción de archivos de datos
 
-Este repositorio contiene una serie de archivos de datos en formato .csv utilizados en el documento [Aprovechar el viento a favor. Oportunidades para el desarrollo del sector pesquero y acuícolasector pesquero en Argentina](https://fund.ar/publicacion/aprovechar-el-viento-a-favor-oportunidades-para-el-desarrollo-del-sector-pesquero-y-acuicola/). Cada archivo corresponde a una tabla específica con información relevante sobre la producción, exportación, empleo y otros aspectos del sector. A continuación, se ofrece una breve descripción de cada archivo y sus columnas, junto con el tipo de datos para facilitar la comprensión y el análisis de los mismos.
+Este repositorio contiene una serie de archivos de datos en formato .csv utilizados en el documento [Aprovechar el viento a favor. Oportunidades para el desarrollo del sector pesquero y acuícola en Argentina](https://fund.ar/publicacion/aprovechar-el-viento-a-favor-oportunidades-para-el-desarrollo-del-sector-pesquero-y-acuicola/). Cada archivo corresponde a una tabla específica con información relevante sobre la producción, exportación, empleo y otros aspectos del sector. A continuación, se ofrece una breve descripción de cada archivo y sus columnas, junto con el tipo de datos para facilitar la comprensión y el análisis de los mismos.
 
 ## Archivos .csv y descripción de campos
 
